@@ -40,9 +40,10 @@ alt="javascript" width="40" height="40"/></a>
 </p>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-<img style="align-self: flex-start; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=walteriba&show_icons=true&locale=en" alt="walteriba"/>
-<img style="align-self: center; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=walteriba&show_icons=true&locale=en&layout=compact" alt="walteriba"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Walteriba&show_icons=true&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="GitHub Stats" style="margin:0 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walteriba&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="Top Languages" style="margin: 0 20px;">
 </div>
+
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=0041c2&section=footer&reversal=true)
