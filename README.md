@@ -1,5 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=0041c2&section=header&reversal=false)
 
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Walteriba/Walteriba/main/foto.png" alt="Walterina" width="200"/>
+</div>
+
 <h1 align="center">¡Hola! Soy Walter <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2 align="center">
