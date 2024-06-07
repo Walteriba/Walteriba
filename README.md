@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=0041c2&section=header&reversal=false)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=0041c2&section=header&reversal=false)
 
 <div align="center">
 <img  src="https://raw.githubusercontent.com/Walteriba/Walteriba/main/foto.png" alt="Walterina" width="300"/>
