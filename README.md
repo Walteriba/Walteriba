@@ -42,8 +42,8 @@ alt="javascript" width="40" height="40"/></a>
 
 <div align="center">
     <div style="display: flex;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Walteriba&show_icons=true&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="GitHub Stats" style="margin:0 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walteriba&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="Top Languages" style="margin: 0 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Walteriba&show_icons=true&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="GitHub Stats" style="margin: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walteriba&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000&text_color=ffffff&border_color=094293&locale=es" alt="Top Languages" style="margin: 20px;">
     </div>
 </div>
 
