@@ -45,9 +45,4 @@ alt="javascript" width="40" height="40"/></a>
 <img style="align-self: center; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=walteriba&show_icons=true&locale=en&layout=compact" alt="walteriba"/>
 </div>
 
-<div align="center" style="margin-top: 10px">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=walteriba&" alt="walteriba" />
-</div>
-
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=0041c2&section=footer&reversal=true)
