@@ -12,7 +12,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walteriba&label=Profile%20views&color=0e75b6&style=flat" alt="walteriba" /></p>
 
-Soy un Fullstack Developer Trainee en mi segundo año de estudios en programación. Me apasiona trabajar en proyectos personales para poner en práctica y mejorar lo que voy aprendiendo.
+Soy un Fullstack Developer en mi segundo año de estudios en programación. Me apasiona trabajar en proyectos personales para poner en práctica y mejorar lo que voy aprendiendo.
 
 Lo que más me motiva es la satisfacción de resolver problemas y ver cómo mis aplicaciones cobran vida después de dedicarles tiempo y esfuerzo.
 
