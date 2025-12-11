@@ -7,12 +7,12 @@
 <h1 align="center">¡Hola! Soy Walter <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2 align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> Estudiante de la Tecnicatura en Programación 
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> Técnico universitario en programación
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walteriba&label=Profile%20views&color=0e75b6&style=flat" alt="walteriba" /></p>
 
-Soy un Fullstack Developer y Técnico universitario en programación. Me apasiona trabajar en proyectos personales para poner en práctica y mejorar lo que voy aprendiendo.
+Soy un Fullstack Developer. Me apasiona trabajar en proyectos personales para poner en práctica y mejorar lo que voy aprendiendo.
 
 Lo que más me motiva es la satisfacción de resolver problemas y ver cómo mis aplicaciones cobran vida después de dedicarles tiempo y esfuerzo.
 
